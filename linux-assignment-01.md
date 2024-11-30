@@ -7,7 +7,7 @@
 ### 01. File System Navigation   
     
 <!-- Sub content of File system navigation -->
-   - ### List of content of the Home directory ( [VIEW](#listOfContent) )
+   - ### List of content of the Home directory ( [VIEW](#List-of-content-of-the-Home-directory) )
 
 <br>
 
