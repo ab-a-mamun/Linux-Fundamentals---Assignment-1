@@ -16,12 +16,12 @@
 
 <p>Command: ls and ls -a, Type ls then we can see list of content in Home directory and type ls -a then show all of hidden content as well </p>
 
-    ```
+    ~~~
     cd ~
     pwd 
     ls
     ls -a 
-    ```
+    ~~~
 
 <img src="assets/listOfContent.png" title="List of content">
 
