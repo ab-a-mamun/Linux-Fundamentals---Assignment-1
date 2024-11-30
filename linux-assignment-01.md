@@ -14,7 +14,7 @@
  <!-- Sub content of File system navigation -->
 ### __List of content of the Home directory__
 
-<p>Command: ls and ls -a, Type ls then we can see list of Home directory and type ls -a then show all of hidden content also </p>
+<p>Command: ls and ls -a, Type ls then we can see list of content in Home directory and type ls -a then show all of hidden content as well </p>
 
     ```
     cd ~
