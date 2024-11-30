@@ -46,7 +46,11 @@
 
 <p>Command: echo $SHELL | This command show which SHELL currently running</p>
 
+    echo $SHELL
+
 <p>Command: echo $0 | Another way to find SHELL | This command two types of result 1. is (bash)-> It means Current SHELL, are not login SHELL and 2. is (-bash)-> It means current SHELL, are login SHELL</p>
+
+    echo $O
 
 <img src="assets/find-shell.png" title="Echo-Shell">  
 
