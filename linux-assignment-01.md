@@ -11,9 +11,9 @@
 
    - ### Change Directory ( [VIEW](#Change-directory) )   
 
-   - ### Find Bash Executable ( [VIEW](#Find-Bash-Executable ) 
+   - ### Find Bash Executable ( [VIEW](#Find-Bash-Executable) ) 
 
-   - ### Find Current SHELL ( [VIEW](#Find-Current-SHELL )
+   - ### Find Current SHELL ( [VIEW](#Find-Current-SHELL) )
 
 <br>
 
