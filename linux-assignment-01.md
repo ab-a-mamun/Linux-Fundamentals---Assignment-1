@@ -6,13 +6,13 @@
 ---
 ### 01. File System Navigation   
     
-    <!-- Sub content of File system navigation -->
-   - ### List of content of the Home directory ( [VIEW](listOfContent) )
+<!-- Sub content of File system navigation -->
+   - ### List of content of the Home directory ( [VIEW](#listOfContent) )
 
 <br>
 
  <!-- Sub content of File system navigation -->
-### __List of content of the Home directory_
+### __List of content of the Home directory__
 
 <p>Command: ls and ls -a, Type ls then we can see list of Home directory and type ls -a then show all of hidden content also </p>
 
